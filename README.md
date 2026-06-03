@@ -37,7 +37,7 @@ The main goals of this project are:
  AI-Based Analytics
  Crowd analysis.
  Peak-hour prediction.
-   Queue performance monitoring.
+Queue performance monitoring.
     Data-driven recommendations.
 User Dashboard
 Queue status updates.
